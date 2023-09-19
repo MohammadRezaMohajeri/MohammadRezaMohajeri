@@ -8,8 +8,9 @@
 - 📈 Skilled in **Statistical Approaches**, applying rigorous statistical methods to ensure data integrity and actionable insights
 
 
-- 🔬 Interested in exploring Single-Cell RNA-Seq and Machine Learning applications in Bioinformatics  
-- 🏭 Industry-Focused  
+- 🔬 Interested in exploring **Single-Cell RNA-Seq** and **Machine Learning** applications in Bioinformatics  
+- 🏭 **Industry-Focused**, particularly in the realm of drug discovery and personalized medicine
+ 
 
 - 🎯 Past experience includes projects on breast cancer, gene mutations, and drug efficacy  
 - 📫 How to reach me: [Email](mailto:omidmoh1980@gmail.com) | [LinkedIn](Your-LinkedIn-URL) | [GitHub](Your-GitHub-URL)
