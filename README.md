@@ -37,7 +37,7 @@
 
 ## 📈 Current Projects
 
-### R-centric Bulk-RNA seq Analysis:
+### R-Driven Bulk-RNA seq Analysis:
 - **Expression Quantification**: Specializing in the use of R packages like `DESeq2` and `edgeR` for quantifying RNA levels across samples, emphasizing batch-effect corrections and outlier detection.
 - **Differential Expression Analysis**: Leveraging R tools to conduct intricate differential expression analyses, aiming to identify genes or pathways of potential therapeutic interest or diagnostic value.
 - **Functional Enrichment Analysis**: Utilizing R-based bioinformatics packages for GO and KEGG pathway analyses, interpreting the biological functions and networks of differentially expressed genes.
