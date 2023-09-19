@@ -33,11 +33,19 @@
 
 ---
 
-### 📈 Current Projects
+## 📈 Current Projects
 
-- **Data Integration & Meta-analysis** in breast cancer research
-- **Machine Learning Approaches** for biomarker discovery
-- **Transcriptomic Analysis** for drug development and diagnostics
+### R-centric Bulk-RNA seq Analysis:
+- **Expression Quantification**: Specializing in the use of R packages like `DESeq2` and `edgeR` for quantifying RNA levels across samples, emphasizing batch-effect corrections and outlier detection.
+- **Differential Expression Analysis**: Leveraging R tools to conduct intricate differential expression analyses, aiming to identify genes or pathways of potential therapeutic interest or diagnostic value.
+- **Functional Enrichment Analysis**: Utilizing R-based bioinformatics packages for GO and KEGG pathway analyses, interpreting the biological functions and networks of differentially expressed genes.
+
+### End-to-End Analytics in RNA-seq with R:
+- **Data Preprocessing**: Perfecting techniques in R for the robust normalization, transformation, and cleaning of RNA-seq data to ensure reliable downstream analyses.
+- **Data Manipulation**: Employing R's data manipulation capabilities to efficiently reshape, summarize, and pivot complex RNA-seq datasets, thus facilitating easier data interpretation.
+- **Data Visualization**: Creating visualizations that not only convey essential data but do so elegantly, using R packages such as `ggplot2` and `pheatmap`.
+- **Workflow Optimization**: Streamlining the entire RNA-seq analysis process in R, from data import to biological inference, creating reusable R pipelines that enhance productivity and reproducibility.
+
 
 ---
 
@@ -51,8 +59,7 @@
 ### 📬 Contact Me
 
 - 📧 Email: [omidmoh1980@gmail.com](mailto:omidmoh1980@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](Your-LinkedIn-URL)
-- 🐦 Twitter: [Your Twitter](Your-Twitter-URL)
+- 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohammad-reza-mohajeri-24240a12b/)
 - 📞 Phone: (+44) 07864095122
 
 
