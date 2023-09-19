@@ -1,17 +1,19 @@
 ### Hi there 👋, I'm Mohammad Reza Mohajeri
+## 🧬 Bio
+- 🧬 Bioinformatician specializing in Transcriptomics, with a focus on RNA-Seq & Microarray Analysis  
+- 🎓 MSc in Bioinformatics from Teesside University, Middlesbrough, UK  
+- 🌱 Currently diving deep into RNA-Seq analysis and data integration, with a rich background in Transcriptomic Microarray and Meta-Analysis  
+- 🛠️ Proficient in R-based End-2-End Analytics  
+- 📊 Expertise in Data Processing, Manipulating, Visualizing, and Integrating
+- 📈 **Skilled in Statistical Approaches**, applying rigorous statistical methods to ensure data integrity and actionable insights
 
-🧬 Bioinformatician specializing in Transcriptomics, with a focus on RNA-Seq & Microarray Analysis  
-🎓 MSc in Bioinformatics from Teesside University, Middlesbrough, UK  
-🌱 Currently diving deep into RNA-Seq analysis and data integration, with a rich background in Transcriptomic Microarray and Meta-Analysis  
-🛠️ Proficient in R-based End-2-End Analytics  
-📊 Expertise in Data Processing, Manipulating, Visualizing, and Integrating  
 
-🔬 Interested in exploring Single-Cell RNA-Seq and Machine Learning applications in Bioinformatics  
-🏭 Industry-Focused  
+- 🔬 Interested in exploring Single-Cell RNA-Seq and Machine Learning applications in Bioinformatics  
+- 🏭 Industry-Focused  
 
-🎯 Past experience includes projects on breast cancer, gene mutations, and drug efficacy  
-📫 How to reach me: [Email](mailto:omidmoh1980@gmail.com) | [LinkedIn](Your-LinkedIn-URL) | [GitHub](Your-GitHub-URL)
-📍 Located in the UK  
+- 🎯 Past experience includes projects on breast cancer, gene mutations, and drug efficacy  
+- 📫 How to reach me: [Email](mailto:omidmoh1980@gmail.com) | [LinkedIn](Your-LinkedIn-URL) | [GitHub](Your-GitHub-URL)
+- 📍 Located in the UK  
 
 ---
 
