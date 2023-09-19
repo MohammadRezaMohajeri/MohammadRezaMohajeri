@@ -11,9 +11,8 @@
 - 🔬 Interested in exploring **Single-Cell RNA-Seq** and **Machine Learning** applications in Bioinformatics  
 - 🏭 **Industry-Focused**, particularly in the realm of drug discovery and personalized medicine
  
-
-- 🎯 Past experience includes projects on breast cancer, gene mutations, and drug efficacy  
-- 📫 How to reach me: [Email](mailto:omidmoh1980@gmail.com) | [LinkedIn](Your-LinkedIn-URL) | [GitHub](Your-GitHub-URL)
+- 🎯 **Past experience includes projects on breast cancer, gene mutations, whole exome sequencing, and drug efficacy**
+- 📫 How to reach me: [Email](mailto:omidmoh1980@gmail.com) | LinkedIn: [My LinkedIn](https://www.linkedin.com/in/mohammad-reza-mohajeri-24240a12b/) | [GitHub](https://github.com/MohammadRezaMohajeri)
 - 📍 Located in the UK  
 
 ---
