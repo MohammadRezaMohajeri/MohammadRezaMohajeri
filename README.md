@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Mohammad Reza Mohajeri
+### Hi there 👋, I'm Omid Mohajeri
 ## 🧬 Bio
 - 🧬 **Bioinformatician** specializing in **Transcriptomics**, with a focus on **RNA-Seq** & **Microarray Analysis**  
 - 🎓 MSc in Bioinformatics from **Teesside** University, Middlesbrough, **UK**  
